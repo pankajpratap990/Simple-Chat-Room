@@ -9,8 +9,8 @@ Select module is used for management of sockets and command line inputs.
 This application works only in unix based system because the select module donot support I/O in windows.
 
 ***FURTHER ENHANCEMENT***
-Future goal on this project is to use threading so it can work on windows
-Addition of GUI
+Future goal on this project is to use threading so it can work on windows.
+Addition of GUI.
 
 ***RESOURCES***
 https://developer.ibm.com/tutorials/l-pysocks/
